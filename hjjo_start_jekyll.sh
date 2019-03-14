@@ -4,6 +4,7 @@
 ## . jekyll
 ##   https://jekyllrb.com/docs/
 ##   https://jekyllrb-ko.github.io/docs/configuration/
+##   https://jekyllrb.com/docs/installation/ubuntu/ -> install with ubuntu
 ## 
 ## . theme
 ##   http://themes.jekyllrc.org/
@@ -22,5 +23,5 @@
 #mv jekyll-TeXt-theme-master nblog-countrydev
 #cd nblog-countrydev
 
-bundle exec jekyll serve --port 14081 --watch --incremental
+bundle exec jekyll serve --port 14082 --watch --incremental
 
